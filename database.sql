@@ -1,4 +1,4 @@
-    create database pizzaria;
+    create database OA;
      
     create table cadastros(
      
